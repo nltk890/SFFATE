@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minVersion": "1.0.0",
-  "url": "https://github.com/nltk890/SFFATE/releases/download/v1.0.0/SFFATE-1.0.0-win-x64.zip",
-  "notes": "First member build."
+  "url": "https://github.com/nltk890/SFFATE/releases/download/v1.0.1/SFFATE-1.0.1-win-x64.zip",
+  "notes": "English only build, smaller download."
 }
